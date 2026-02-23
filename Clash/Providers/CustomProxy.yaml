@@ -26,3 +26,5 @@ payload:
   - DOMAIN-SUFFIX,bikaios.xyz
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,aidungeon.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-KEYWORD,openai
