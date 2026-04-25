@@ -49,5 +49,7 @@ payload:
   - DOMAIN-SUFFIX,external-preview.redd.it
   - DOMAIN-SUFFIX,redgifs.com
   - DOMAIN-SUFFIX,redditspace.com
+  - DOMAIN-SUFFIX,mmcdn.com
+  - DOMAIN-SUFFIX,highwebmedia.com
   
   
