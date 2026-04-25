@@ -34,5 +34,17 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,reddituploads.com
+  - DOMAIN-SUFFIX,redditinc.com
+  - DOMAIN-SUFFIX,gateway.reddit.com
+  - DOMAIN-SUFFIX,oauth.reddit.com
+  - DOMAIN-SUFFIX,api.reddit.com
+  - DOMAIN-SUFFIX,gql.reddit.com
+  - DOMAIN-SUFFIX,i.redd.it
+  - DOMAIN-SUFFIX,v.redd.it
+  - DOMAIN-SUFFIX,preview.redd.it
+  - DOMAIN-SUFFIX,external-preview.redd.it
   
