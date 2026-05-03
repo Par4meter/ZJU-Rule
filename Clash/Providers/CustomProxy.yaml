@@ -55,5 +55,13 @@ payload:
   - DOMAIN-SUFFIX,oplist.org
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,wanxiang2026.com
+  - DOMAIN-SUFFIX,discord.com,代理
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
   
   
