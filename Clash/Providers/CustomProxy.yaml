@@ -63,5 +63,6 @@ payload:
   - DOMAIN-SUFFIX,discordcdn.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,taishan.pro
   
   
