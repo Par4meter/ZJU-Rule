@@ -64,5 +64,6 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,taishan.pro
+  - DOMAIN-SUFFIX,store.steampowered.com
   
   
